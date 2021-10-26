@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/demo-deploy-react/static/css/main.0c3a024a.chunk.css",
+    "main.js": "/demo-deploy-react/static/js/main.27fdf773.chunk.js",
+    "main.js.map": "/demo-deploy-react/static/js/main.27fdf773.chunk.js.map",
+    "runtime-main.js": "/demo-deploy-react/static/js/runtime-main.a7b6183c.js",
+    "runtime-main.js.map": "/demo-deploy-react/static/js/runtime-main.a7b6183c.js.map",
+    "static/js/2.e34ea62f.chunk.js": "/demo-deploy-react/static/js/2.e34ea62f.chunk.js",
+    "static/js/2.e34ea62f.chunk.js.map": "/demo-deploy-react/static/js/2.e34ea62f.chunk.js.map",
+    "index.html": "/demo-deploy-react/index.html",
+    "static/css/main.0c3a024a.chunk.css.map": "/demo-deploy-react/static/css/main.0c3a024a.chunk.css.map",
+    "static/js/2.e34ea62f.chunk.js.LICENSE.txt": "/demo-deploy-react/static/js/2.e34ea62f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/demo-deploy-react/static/media/product.d30260fb.jpg",
+    "static/media/HeroSection.css": "/demo-deploy-react/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7b6183c.js",
+    "static/js/2.e34ea62f.chunk.js",
+    "static/css/main.0c3a024a.chunk.css",
+    "static/js/main.27fdf773.chunk.js"
+  ]
+}
