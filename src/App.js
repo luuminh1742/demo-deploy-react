@@ -20,11 +20,11 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
           <Route path='/products' component={Products} />
           <Route path='/services' component={Services} />
           <Route path='/blog' component={Blog} />
           <Route path='/contact' component={Contact} />
+          <Route path='/' component={Home} />
         </Switch>
         <Footer />
       </Router>
