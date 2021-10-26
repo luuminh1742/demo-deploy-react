@@ -24,7 +24,9 @@ function App() {
           <Route path='/services' component={Services} />
           <Route path='/blog' component={Blog} />
           <Route path='/contact' component={Contact} />
-          <Route path='/' component={Home} />
+          <Route path='/' >
+            <Home/>
+          </Route>
         </Switch>
         <Footer />
       </Router>
