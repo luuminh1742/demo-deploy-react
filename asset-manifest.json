@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/demo-deploy-react/static/css/main.0c3a024a.chunk.css",
-    "main.js": "/demo-deploy-react/static/js/main.27fdf773.chunk.js",
-    "main.js.map": "/demo-deploy-react/static/js/main.27fdf773.chunk.js.map",
+    "main.js": "/demo-deploy-react/static/js/main.fe6fe2cb.chunk.js",
+    "main.js.map": "/demo-deploy-react/static/js/main.fe6fe2cb.chunk.js.map",
     "runtime-main.js": "/demo-deploy-react/static/js/runtime-main.a7b6183c.js",
     "runtime-main.js.map": "/demo-deploy-react/static/js/runtime-main.a7b6183c.js.map",
     "static/js/2.e34ea62f.chunk.js": "/demo-deploy-react/static/js/2.e34ea62f.chunk.js",
@@ -11,12 +11,13 @@
     "static/css/main.0c3a024a.chunk.css.map": "/demo-deploy-react/static/css/main.0c3a024a.chunk.css.map",
     "static/js/2.e34ea62f.chunk.js.LICENSE.txt": "/demo-deploy-react/static/js/2.e34ea62f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/demo-deploy-react/static/media/product.d30260fb.jpg",
-    "static/media/HeroSection.css": "/demo-deploy-react/static/media/img-home.c034239e.jpg"
+    "static/media/HeroSection.css": "/demo-deploy-react/static/media/img-home.c034239e.jpg",
+    "static/media/video-2.39e6c79b.mp4": "/demo-deploy-react/static/media/video-2.39e6c79b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.a7b6183c.js",
     "static/js/2.e34ea62f.chunk.js",
     "static/css/main.0c3a024a.chunk.css",
-    "static/js/main.27fdf773.chunk.js"
+    "static/js/main.fe6fe2cb.chunk.js"
   ]
 }
