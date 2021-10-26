@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Button } from './Button'
 import './HeroSection.css'
 import {AiFillPlayCircle} from 'react-icons/ai'
-
+import video from '../assets/videos/video-2.mp4'
 function HeroSection() {
 
     const [showVideo, setShowVideo] = useState(true);
@@ -17,7 +17,7 @@ function HeroSection() {
     return (
         <div className={`hero-container ${showVideo && 'bg-hero-container'}`}>
 
-            <video src='/videos/video-2.mp4' autoPlay loop muted />
+            <video src={video} autoPlay loop muted />
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for</p>
             <div className='hero-btns'>
